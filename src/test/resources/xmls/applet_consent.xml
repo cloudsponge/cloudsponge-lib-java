@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <status>success</status>
+  <url>https://api.cloudsponge.com/objects/ContactsApplet_signed.jar</url>
+  <import-id>1132</import-id>
+  <user-id nil="false">You</user-id>
+  <echo>Hello?</echo>
+</result>

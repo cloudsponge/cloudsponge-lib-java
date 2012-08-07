@@ -1,0 +1,4634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactsResponse>
+  <contacts-owner>
+    <phone type="array"/>
+    <last-name>Paes Rodrigues</last-name>
+    <owner type="boolean">true</owner>
+    <email type="array">
+      <email>
+        <address>andrenpaes@gmail.com</address>
+      </email>
+    </email>
+    <first-name>Andr&#233;</first-name>
+  </contacts-owner>
+  <import-id type="integer">9713810</import-id>
+  <contacts type="array">
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Rosa</last-name>
+      <email type="array">
+        <email>
+          <address>aguiartalita2@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Talita</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>pingado-virtual@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>pingado-virtual</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cardoso</last-name>
+      <email type="array">
+        <email>
+          <address>daniel.br@mac.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Daniel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Alencar</last-name>
+      <email type="array">
+        <email>
+          <address>sidneyalencar@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Sidney</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andrehjornalista@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andrehjornalista</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lemos</last-name>
+      <email type="array">
+        <email>
+          <address>fabricio.lemos@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Fabricio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Freitas</last-name>
+      <email type="array">
+        <email>
+          <address>fredaraujofreitas@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Fred</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Carneiro</last-name>
+      <email type="array">
+        <email>
+          <address>rafaelcarneirob@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Rafael</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>paes bormann</last-name>
+      <email type="array">
+        <email>
+          <address>niciapaes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>nicia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Reffson Granja Lima</last-name>
+      <email type="array">
+        <email>
+          <address>arglbr@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Allan</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>mob0016@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>mob0016</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Romcy</last-name>
+      <email type="array">
+        <email>
+          <address>neliza.romcy@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Neliza</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>julie@arizonabay.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>julie</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Turner</last-name>
+      <email type="array">
+        <email>
+          <address>lewis.turner@youdevise.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Lewis</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Benevides</last-name>
+      <email type="array">
+        <email>
+          <address>saviobpinto@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>S&#225;vio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Dias</last-name>
+      <email type="array">
+        <email>
+          <address>uira@enovar.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Uira</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>ribeiro mendes mota pelegrini</last-name>
+      <email type="array">
+        <email>
+          <address>fabioroni@yahoo.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>fabio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andre@arizonabay.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andre</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Quin</last-name>
+      <email type="array">
+        <email>
+          <address>alexq@ajqconsulting.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Alex</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Nogueira de Alencar</last-name>
+      <email type="array">
+        <email>
+          <address>vandecio@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Vandecio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Pinheiro Abreu (E-NOVAR)</last-name>
+      <email type="array">
+        <email>
+          <address>fabio.abreu@enovar.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+        <email>
+          <address>fabiopinheiroabreu@gmail.com</address>
+          <type>home</type>
+        </email>
+      </email>
+      <first-name>Fabio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Pinheiro Abreu (E-NOVAR)</last-name>
+      <email type="array">
+        <email>
+          <address>fabio.abreu@enovar.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+        <email>
+          <address>fabiopinheiroabreu@gmail.com</address>
+          <type>home</type>
+        </email>
+      </email>
+      <first-name>Fabio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Oquendo</last-name>
+      <email type="array">
+        <email>
+          <address>felipe@enovar.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Felipe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Squirrel</last-name>
+      <email type="array">
+        <email>
+          <address>douglas.squirrel@youdevise.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Douglas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Soares</last-name>
+      <email type="array">
+        <email>
+          <address>mayrasoares.arq@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Mayra</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Baleia</last-name>
+      <email type="array">
+        <email>
+          <address>villabaleia@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Villa</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bormann</last-name>
+      <email type="array">
+        <email>
+          <address>m.bormann@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Martha</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Zelechowski</last-name>
+      <email type="array">
+        <email>
+          <address>tzelecho@thoughtworks.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Tess</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>leidiane@apredial.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>leidiane</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>financeiro@apredial.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>financeiro</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>roberto vieira de moraes</last-name>
+      <email type="array">
+        <email>
+          <address>ervmoraes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>emmanuel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>bastos</last-name>
+      <email type="array">
+        <email>
+          <address>ramonbastos@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>ramon</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Carroll</last-name>
+      <email type="array">
+        <email>
+          <address>carroll@cosmicvariance.com</address>
+          <type>work</type>
+        </email>
+        <email>
+          <address>seancarroll@gmail.com</address>
+          <type>work</type>
+        </email>
+      </email>
+      <first-name>Sean</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Arquitetos</last-name>
+      <email type="array">
+        <email>
+          <address>oicos@oicosarquitetos.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Oicos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Quintela</last-name>
+      <email type="array">
+        <email>
+          <address>ceciliaquintela@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Cec&#237;lia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Quin</last-name>
+      <email type="array">
+        <email>
+          <address>alex@arizonabay.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Alex</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Buckle</last-name>
+      <email type="array">
+        <email>
+          <address>victoria.buckle@youdevise.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Victoria</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Amaral</last-name>
+      <email type="array">
+        <email>
+          <address>michel.amaral@designa.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+        <email>
+          <address>michel.amaral@gmail.com</address>
+          <type>home</type>
+        </email>
+      </email>
+      <first-name>Michel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Amaral</last-name>
+      <email type="array">
+        <email>
+          <address>michel.amaral@designa.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+        <email>
+          <address>michel.amaral@gmail.com</address>
+          <type>home</type>
+        </email>
+      </email>
+      <first-name>Michel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Filho</last-name>
+      <email type="array">
+        <email>
+          <address>boscofilho@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Bosco</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>joseafilho@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>joseafilho</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Junior, Imagem</last-name>
+      <email type="array">
+        <email>
+          <address>robson@kimmay.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Robson</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>de Lima</last-name>
+      <email type="array">
+        <email>
+          <address>elvisdelima89@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Elvis</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>PARAMETRICA</last-name>
+      <email type="array">
+        <email>
+          <address>U301C1B88AFC4P54186527-reply@danielcardoso.basecamphq.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>ALVENARIA</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>muniz</last-name>
+      <email type="array">
+        <email>
+          <address>charlestonm@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>charleston</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>brendaw@scaleoutsoftware.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>brendaw</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>infograficos@estadao.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>infograficos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>cleuce@apredial.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>cleuce</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>info@thetubestore.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>info</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andre.rodrigues@originate.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andre.rodrigues</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>jay@arizonabay.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>jay</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Quin</last-name>
+      <email type="array">
+        <email>
+          <address>alex.quin@originate.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Alex</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Molinari</last-name>
+      <email type="array">
+        <email>
+          <address>eduardo@arizonabay.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Eduardo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Ribeiro</last-name>
+      <email type="array">
+        <email>
+          <address>alfredo@arizonabay.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Alfredo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Fernandes</last-name>
+      <email type="array">
+        <email>
+          <address>romulu_zin@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+        <email>
+          <address>romuloeefsg@gmail.com</address>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>R&#244;mulo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Exchange</last-name>
+      <email type="array"/>
+      <first-name>Stack</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>everton@musitechinstrumentos.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Everton</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>atendimento@pagamentodigital.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>atendimento</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>privacy1@motorolasolutions.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>privacy1</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cabral</last-name>
+      <email type="array">
+        <email>
+          <address>ricardocabral@secrel.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ricardo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Freitas</last-name>
+      <email type="array">
+        <email>
+          <address>freitaspost@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Fred</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mondego</last-name>
+      <email type="array">
+        <email>
+          <address>israel.viana@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Israel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Castro</last-name>
+      <email type="array">
+        <email>
+          <address>emanuel.castro@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Emanuel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Peixoto</last-name>
+      <email type="array">
+        <email>
+          <address>cynara.peixoto@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Cynara</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Alex</last-name>
+      <email type="array">
+        <email>
+          <address>kalpereira@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Karlos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Soares</last-name>
+      <email type="array">
+        <email>
+          <address>leocsoares78@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Leonardo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Oasis, NYC</last-name>
+      <email type="array">
+        <email>
+          <address>information@urbanoasisnyc.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Urban</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Oliveira</last-name>
+      <email type="array">
+        <email>
+          <address>maytheoliveira@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Mayth&#234;</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mello Dantas</last-name>
+      <email type="array">
+        <email>
+          <address>annedantas@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Anne</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>reservas@pousadavillaboavista.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>reservas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lira</last-name>
+      <email type="array">
+        <email>
+          <address>alineblir@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Aline</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cunha</last-name>
+      <email type="array">
+        <email>
+          <address>fbcunha76@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+        <email>
+          <address>fbcunha@gmail.com</address>
+          <type>home</type>
+        </email>
+      </email>
+      <first-name>Felipe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cultura S.A.</last-name>
+      <email type="array">
+        <email>
+          <address>livros@livrariacultura.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Livraria</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Aguiar</last-name>
+      <email type="array">
+        <email>
+          <address>felipe.tre.ce@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Felipe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array">
+        <phone>
+          <number>+558588551313</number>
+          <type>mobile</type>
+        </phone>
+      </phone>
+      <last-name>Eug&#234;nio Torres</last-name>
+      <email type="array">
+        <email>
+          <address>carloseugeniotorres@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Carlos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>j.alexandre.s@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>j.alexandre.s</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cardoso</last-name>
+      <email type="array">
+        <email>
+          <address>daniel.sat@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Daniel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Medeiros</last-name>
+      <email type="array">
+        <email>
+          <address>felipe.medeiros@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Felipe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Miranda --  Personal Trainer</last-name>
+      <email type="array">
+        <email>
+          <address>liacmiranda@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Lia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>alyssontarginosa@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>alyssontarginosa</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>lunarosa@bitwave.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>lunarosa</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>discussao-subscribe@cejug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>discussao-subscribe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bastos</last-name>
+      <email type="array"/>
+      <first-name>Luiz</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>discussao-sc.1144672695.meaameicoiafgfljajkj-andrenpaes=gmail.com@cejug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>discussao-sc.1144672695.meaameicoiafgfljajkj-andrenpaes=gmail.com</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Braga</last-name>
+      <email type="array"/>
+      <first-name>Marcio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cardoso</last-name>
+      <email type="array">
+        <email>
+          <address>drc1120@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Daniel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Paes</last-name>
+      <email type="array">
+        <email>
+          <address>fjpaes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Fernando</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>enterprise-list@soujava.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>enterprise-list</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>sicorDev@yahoogroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>sicorDev</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>suporte@destinos.sapo.pt</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Destinos.sapo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gomes Damasceno</last-name>
+      <email type="array">
+        <email>
+          <address>elbert@seduc.ce.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Elbert</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Filho</last-name>
+      <email type="array">
+        <email>
+          <address>mistocles@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Gerardo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Paiva</last-name>
+      <email type="array">
+        <email>
+          <address>leandrorpaiva@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Leandro</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cardoso</last-name>
+      <email type="array">
+        <email>
+          <address>seres00@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Daniel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>vendas@floresdora.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>vendas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Sampaio</last-name>
+      <email type="array">
+        <email>
+          <address>willyguerrasempre@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ylli</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Paz</last-name>
+      <email type="array">
+        <email>
+          <address>srpreto@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Thiago</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>claudiofeijao1982@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>claudiofeijao1982</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>sidney@microsol.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>sidney</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>mbormann@evilhorderec.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>mbormann</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>oicos@veloxmail.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>oicos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>paes bormann</last-name>
+      <email type="array">
+        <email>
+          <address>niciapaes@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>nicia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>m.bormann@evilhorderec.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>m.bormann</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array">
+        <phone>
+          <number>08532544244</number>
+          <type>home</type>
+        </phone>
+        <phone>
+          <number>08587942000</number>
+          <type>mobile</type>
+        </phone>
+        <phone>
+          <number>08540082842</number>
+          <type>work</type>
+        </phone>
+      </phone>
+      <last-name>Gomes</last-name>
+      <email type="array">
+        <email>
+          <address>elbertgomes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Elbert</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>vandecio@eim.ind.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Vand&#233;cio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gomes</last-name>
+      <email type="array">
+        <email>
+          <address>elbertgomes@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Elbert</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Limaverde</last-name>
+      <email type="array">
+        <email>
+          <address>alimaverde@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Andr&#233;</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Moreira de Gurjao</last-name>
+      <email type="array">
+        <email>
+          <address>victormg@seduc.ce.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Victor</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>karen_radcliffe_lee@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Karen</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>emanuel_castro@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>emanuel_castro</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Teixeira</last-name>
+      <email type="array">
+        <email>
+          <address>gilson.lopes@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Gilson</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Costa</last-name>
+      <email type="array">
+        <email>
+          <address>tandycosta@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Tandara</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>marcosvnpaes@katatudo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>marcosvnpaes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>edvan@lia.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>edvan</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Marcell Pontes de Oliveira</last-name>
+      <email type="array">
+        <email>
+          <address>jeanramones@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Jean</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cruz</last-name>
+      <email type="array">
+        <email>
+          <address>renatin_cruz@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Renato</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>jalexandresf@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>jalexandresf</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rbrito@ipece.ce.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Catraca</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>osvaldojaneri@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>osvaldojaneri</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>marcosvnpaes@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Marcos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Santos</last-name>
+      <email type="array">
+        <email>
+          <address>misael@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Misael</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rmsf051-l@lia.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rmsf051-l</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cibele</last-name>
+      <email type="array">
+        <email>
+          <address>paulinhaccf@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Paula</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andrenpaes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andrenpaes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>claudio.teles@serpro.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>claudio.teles</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Moro Furian</last-name>
+      <email type="array">
+        <email>
+          <address>flaviofurian@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Flavio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>jalexandresf@yahoo.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>jalexandresf</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rossana@lia.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rossana</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>araujo_mil@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>araujo_mil</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>toy art + design</last-name>
+      <email type="array">
+        <email>
+          <address>monstrengostoys@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>mOnstrengOs</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lima</last-name>
+      <email type="array">
+        <email>
+          <address>regis_lr@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Regis</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Santos</last-name>
+      <email type="array">
+        <email>
+          <address>regisan@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Regis</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>vmelo@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>vmelo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>jamesdariocarvalho@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>jamesdariocarvalho</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rafael.tabosa@ivia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rafael.tabosa</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Tabosa</last-name>
+      <email type="array">
+        <email>
+          <address>rafatabosa@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Rafael</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>tarso.bessa@ivia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>tarso.bessa</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>aguiar</last-name>
+      <email type="array">
+        <email>
+          <address>talitaaguiar@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>talita</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Quetelle</last-name>
+      <email type="array">
+        <email>
+          <address>raphaelquetelle@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Raphael</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Santos</last-name>
+      <email type="array">
+        <email>
+          <address>regis.santos@ivia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Regis</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>claudio.lima@click21.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>claudio.lima</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>jeanmarcellpo@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>jeanmarcellpo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>elisapaesbormann@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>elisapaesbormann</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>marloncambraia@uol.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>marloncambraia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>mauricio_soares@yahoo.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>mauricio_soares</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>jose.filho@sefaz.ce.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Alexandre</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>info@amplifiedparts.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>info</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>marcelino@lia.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>marcelino</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>pingado-on-rails@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>pingado-on-rails</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>elian@ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>elian</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andre.rodrigues@ivia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andre.rodrigues</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>riverson@ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>riverson</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>elian@fortalnet.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>elian</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Jr.</last-name>
+      <email type="array">
+        <email>
+          <address>paulojribp@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Paulo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>werther@secrel.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Werther</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Nissey</last-name>
+      <email type="array">
+        <email>
+          <address>laurinha_ni@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Laura</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gomez</last-name>
+      <email type="array">
+        <email>
+          <address>gabisgomez@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Gabriela</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>info@pousadadosfranceses.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>pousadadosfranceses</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Nogueira</last-name>
+      <email type="array">
+        <email>
+          <address>mirelaalexandrino@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Mirela</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>marcel@lia.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>marcel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>vitorsouza@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>vitorsouza</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Carolina Martins</last-name>
+      <email type="array">
+        <email>
+          <address>carol_martins_@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ana</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>reservas@pousadacasadetaipa.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Reservas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Apple</last-name>
+      <email type="array">
+        <email>
+          <address>centralapple@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Central</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>marcosvnpaes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>marcosvnpaes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>nelson777@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>nelson777</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andrecardosofr@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andrecardosofr</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lobo</last-name>
+      <email type="array">
+        <email>
+          <address>joellobo@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Joel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Rufino</last-name>
+      <email type="array">
+        <email>
+          <address>ant.rufino@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Antonio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>descadastramento@livrariasaraiva.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>descadastramento</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Dantas</last-name>
+      <email type="array">
+        <email>
+          <address>marciopd@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>M&#225;rcio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>javasf@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>javasf</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>senacguaramiranga@ce.senac.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>senacguaramiranga</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cortes</last-name>
+      <email type="array">
+        <email>
+          <address>eloir.cortes@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Eloir</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bormann</last-name>
+      <email type="array">
+        <email>
+          <address>m_bormann88@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Martha</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Fee</last-name>
+      <email type="array">
+        <email>
+          <address>savannah@tonefactor.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Savannah</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Teixeira</last-name>
+      <email type="array">
+        <email>
+          <address>manue1a@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Manuela</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>registration@jazoon.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>registration</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>magalh&#227;es</last-name>
+      <email type="array">
+        <email>
+          <address>alexandrepitbull@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>alexandre</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>techtrip-sc.1204221619.gbbnemonabjochdcoekk-andrenpaes=gmail.com@cejug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>techtrip-sc.1204221619.gbbnemonabjochdcoekk-andrenpaes=gmail.com</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>techtrip@cejug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>techtrip</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>eloir.cortes@tropicalhotel.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>eloir.cortes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lucas</last-name>
+      <email type="array">
+        <email>
+          <address>pedralispe@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Jo&#227;o</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Pizane</last-name>
+      <email type="array">
+        <email>
+          <address>lorenapizane@prv.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Lorena</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mateus</last-name>
+      <email type="array"/>
+      <first-name>Windson</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rafatabosa%hotmail.com@msn.headcounter.org</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rafatabosa%hotmail.com</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>/ Evil Horde Rec</last-name>
+      <email type="array">
+        <email>
+          <address>design@evilhorderec.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Design</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Luisa Lisboa</last-name>
+      <email type="array">
+        <email>
+          <address>lisboanobre@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ana</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>adriana.rodrigues@serpro.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>adriana.rodrigues</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Frota</last-name>
+      <email type="array">
+        <email>
+          <address>handersonbf@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Handerson</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>roddrica@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>roddrica</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>fferrazo@yahoo.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>fferrazo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>prabhu_durairaj@syntelinc.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>prabhu_durairaj</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>nicia@oicosarquitetos.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>nicia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>javasf-unsubscribe@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>javasf-unsubscribe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Quintela</last-name>
+      <email type="array">
+        <email>
+          <address>cecilia@noolhar.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Cec&#237;lia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Rodrigues Esteves</last-name>
+      <email type="array">
+        <email>
+          <address>eniorodriguesteves@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Enio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>lilipaes@uol.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>lilipaes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Campbell</last-name>
+      <email type="array">
+        <email>
+          <address>ccampbell@google.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Colleen</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mesquita</last-name>
+      <email type="array">
+        <email>
+          <address>natybm@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Nat&#225;lia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Rosa</last-name>
+      <email type="array">
+        <email>
+          <address>lino.aguiar.rosa@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Lino</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rodrigoy@aspercom.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rodrigoy</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Aquino</last-name>
+      <email type="array"/>
+      <first-name>Hebert</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>vinicius_melo%hotmail.com@msn.headcounter.org</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>vinicius_melo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Hansen</last-name>
+      <email type="array">
+        <email>
+          <address>brandonhansen@attask.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Brandon</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>lucinhaqueiroz@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>lucinhaqueiroz</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Leyn</last-name>
+      <email type="array">
+        <email>
+          <address>kle@bejug.org</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Kristien</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rlubke@dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rlubke</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Virginio</last-name>
+      <email type="array">
+        <email>
+          <address>ronaldo.virginio@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ronaldo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lubke</last-name>
+      <email type="array">
+        <email>
+          <address>Ryan.Lubke@sun.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ryan</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gomes</last-name>
+      <email type="array">
+        <email>
+          <address>jullyjeanne@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Jully</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>loianeg@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>loianeg</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>rest-br@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>rest-br</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Marcell</last-name>
+      <email type="array">
+        <email>
+          <address>jmarcellster@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Jean</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cardoso</last-name>
+      <email type="array">
+        <email>
+          <address>andre_cardoso2003@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Andr&#233;</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cardoso</last-name>
+      <email type="array">
+        <email>
+          <address>cardoso.paulo@uol.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Paulo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>elisangela.benicio@serpro.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>elisangela.benicio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>daniel.br@timbrasil.blackberry.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>daniel.br</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>fpelegrini@sarah.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>fpelegrini</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>italo.maia@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>italo.maia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mota</last-name>
+      <email type="array">
+        <email>
+          <address>emanuelle.mms@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Emanuelle</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>support.portuguese@linksys.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>support.portuguese</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>esjug-help@esjug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>esjug-help</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array"/>
+      <first-name>Eduardo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>J&#250;nior</last-name>
+      <email type="array">
+        <email>
+          <address>vanjunior@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Vanderley</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Antonio Lacerda Pereira</last-name>
+      <email type="array">
+        <email>
+          <address>marcosalpereira@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Marcos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>&amp;Roseane</last-name>
+      <email type="array">
+        <email>
+          <address>araujofaa@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Araujo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cear&#225;</last-name>
+      <email type="array">
+        <email>
+          <address>walterpolack@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Walter</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Candido</last-name>
+      <email type="array">
+        <email>
+          <address>vrcguitar@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Vera</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>banda-do-pingado@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>banda-do-pingado</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>publisidney@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>publisidney</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array"/>
+      <first-name>Ferrari</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Ga&#250;cho</last-name>
+      <email type="array">
+        <email>
+          <address>fgaucho@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Felipe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>harolfal@secrel.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>harolfal</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>codejam-latinamerica07@google.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>codejam-latinamerica07</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andre-nogueira.rodrigues@serpro.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andre-nogueira.rodrigues</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>do Gostoso</last-name>
+      <email type="array">
+        <email>
+          <address>pousada@pousadadogostoso.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Pousada</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>luciano@lifesound.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>luciano</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cerqueira</last-name>
+      <email type="array">
+        <email>
+          <address>Frederico.Cerqueira@quality.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Frederico</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>geral dos alunos da Computa&#231;&#227;o/UFC</last-name>
+      <email type="array">
+        <email>
+          <address>alu-l@alu.dc.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Lista</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bruno</last-name>
+      <email type="array">
+        <email>
+          <address>allanbruno@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Allan</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Junior</last-name>
+      <email type="array">
+        <email>
+          <address>edilson_work@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>JUNIOR</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>J&#225;come</last-name>
+      <email type="array">
+        <email>
+          <address>geanjacome@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Gean</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gomez</last-name>
+      <email type="array">
+        <email>
+          <address>marcela_ufc@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Marcela</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>discussao@cejug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>discussao</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>fabiano.leite@ivia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>fabiano.leite</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Cavalcanti</last-name>
+      <email type="array"/>
+      <first-name>Hernando</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Pereira de Alencar</last-name>
+      <email type="array">
+        <email>
+          <address>sidney@hidracor.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Sidney</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andreteotonio@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andreteotonio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>cagece_infra@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>cagece_infra</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Sousa</last-name>
+      <email type="array">
+        <email>
+          <address>jalexandresf@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Alexandre</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>RPH</last-name>
+      <email type="array">
+        <email>
+          <address>atendimento@recifeplazahotel.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>atendimento</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>spfladev@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>spfladev</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lenz</last-name>
+      <email type="array">
+        <email>
+          <address>danieulenz@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Daniel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>night_scarecrow@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Tadeu</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>2008</last-name>
+      <email type="array">
+        <email>
+          <address>carnaval2008@grupos.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Carnaval</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bonavides Madbio</last-name>
+      <email type="array">
+        <email>
+          <address>madbio_s4@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>F&#225;bio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Feitosa</last-name>
+      <email type="array"/>
+      <first-name>David</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Barreira</last-name>
+      <email type="array">
+        <email>
+          <address>natbarreira@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Nat&#225;lia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>javace@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>javace</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>enterprise-list-subscribe@soujava.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>enterprise-list-subscribe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andrenpaes@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andrenpaes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lemos</last-name>
+      <email type="array">
+        <email>
+          <address>diegolemos@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Diego</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>enterprise-list-sc.1147956453.jlmfolahhofdelehhioh-andrenpaes=gmail.com@soujava.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>enterprise-list-sc.1147956453.jlmfolahhofdelehhioh-andrenpaes=gmail.com</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Leite</last-name>
+      <email type="array">
+        <email>
+          <address>fabiano.leite@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Fabiano</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>coutinho.neto@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>coutinho.neto</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>info@proguitarshop.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>info</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>Enda@rescon.ie</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Enda</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Dantas</last-name>
+      <email type="array">
+        <email>
+          <address>vdantas@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Vinicius</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>reservas@sombraeaguafresca.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>reservas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lima</last-name>
+      <email type="array">
+        <email>
+          <address>rochele.lima@casablancaturismo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Rochele</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>eduardots@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>eduardots</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>serpro2005-ce@yahoogrupos.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>serpro2005-ce</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>flavio.serpro@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>flavio.serpro</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Nunes</last-name>
+      <email type="array">
+        <email>
+          <address>rubensrfn@bol.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Rubens</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Hutton</last-name>
+      <email type="array"/>
+      <first-name>Karen</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>xpce@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>xpce</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Batista</last-name>
+      <email type="array">
+        <email>
+          <address>raphaellechristine@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Raphaelle</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>La Bonita</last-name>
+      <email type="array">
+        <email>
+          <address>info@pousadalabonita.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Pousada</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>matt@stompunderfoot.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>matt</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Rog&#233;rio</last-name>
+      <email type="array"/>
+      <first-name>Marcos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Kincaid</last-name>
+      <email type="array"/>
+      <first-name>Jason</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lu&#237;za Mayer Perfil II</last-name>
+      <email type="array">
+        <email>
+          <address>luizamayer2@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Maria</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>esjug-sc.1236691933.jigljnhlphnghmghccnn-andrenpaes=gmail.com@esjug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>esjug-sc.1236691933.jigljnhlphnghmghccnn-andrenpaes=gmail.com</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Support</last-name>
+      <email type="array">
+        <email>
+          <address>support@musictoyz.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Musictoyz</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Batista</last-name>
+      <email type="array"/>
+      <first-name>George</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mudo</last-name>
+      <email type="array">
+        <email>
+          <address>fabiomudo@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>F&#225;bio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Satriani</last-name>
+      <email type="array"/>
+      <first-name>Joe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Souza</last-name>
+      <email type="array">
+        <email>
+          <address>biasouza@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Bia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Mascarenhas</last-name>
+      <email type="array">
+        <email>
+          <address>mvmascarenhas81@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Michelle</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>reservas@pousadasoalegria.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>reservas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Queiroz</last-name>
+      <email type="array">
+        <email>
+          <address>kergi.naldo@bol.com.br</address>
+          <type>work</type>
+        </email>
+      </email>
+      <first-name>Kerginaldo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Maciel</last-name>
+      <email type="array">
+        <email>
+          <address>tayannasibele82@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Tayanna</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bormann</last-name>
+      <email type="array">
+        <email>
+          <address>nicia.bormann@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Nicia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Castro</last-name>
+      <email type="array"/>
+      <first-name>Rute</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Silveira</last-name>
+      <email type="array"/>
+      <first-name>Paulo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Barros</last-name>
+      <email type="array"/>
+      <first-name>F&#225;bio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Jonathas</last-name>
+      <email type="array">
+        <email>
+          <address>andrehjc@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Andreh</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>hermanocabral@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>hermanocabral</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Raviolo</last-name>
+      <email type="array">
+        <email>
+          <address>aetius@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Bruno</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Bevil&#225;qua</last-name>
+      <email type="array">
+        <email>
+          <address>f.nanda.mcr@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Fernanda</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>sridhar.gudaru@us.ness.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>sridhar.gudaru</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>nicia.bormann@terrra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>nicia.bormann</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>avasconcellos@terra.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>avasconcellos</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>nataliekunz@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>nataliekunz</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>F&#225;bio</last-name>
+      <email type="array">
+        <email>
+          <address>marcio_fabio@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>M&#225;rcio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>truculencia_fortaleza@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>truculencia_fortaleza</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Almeida</last-name>
+      <email type="array">
+        <email>
+          <address>ruanalmeidad@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ruan</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Amplification</last-name>
+      <email type="array">
+        <email>
+          <address>reevesamps@fuse.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Reeves</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array">
+        <phone>
+          <number>Moro em Bras&#237;lia DF</number>
+          <type>home</type>
+        </phone>
+      </phone>
+      <last-name>santos</last-name>
+      <email type="array">
+        <email>
+          <address>roblrp@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>j_rob</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gomes</last-name>
+      <email type="array">
+        <email>
+          <address>helimdatiagraca@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>H&#233;lio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Paes</last-name>
+      <email type="array">
+        <email>
+          <address>gaia_nsd@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Anelise</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Ara&#250;jo</last-name>
+      <email type="array">
+        <email>
+          <address>roseane.rca@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Roseane</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>claudenor de lima lima</last-name>
+      <email type="array">
+        <email>
+          <address>claudenorlima2008@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>jose</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>andrenpaes@yahoo.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>andrenpaes</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>bolaopingado2010@googlegroups.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>bolaopingado2010</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Music</last-name>
+      <email type="array">
+        <email>
+          <address>macdaddy.music.com@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Macdaddy</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Vega</last-name>
+      <email type="array">
+        <email>
+          <address>euclidesvega@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Euclides</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>financeiro@cieloturismo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Financeiro</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Paula Lopes</last-name>
+      <email type="array">
+        <email>
+          <address>anapaulalopes12@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Ana</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>yuri_audi@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>yuri_audi</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Oliveira Barbacovi #1115</last-name>
+      <email type="array">
+        <email>
+          <address>pierocolorado@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Piero</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>fhilipeaugusto@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Felip&#227;o</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Barros</last-name>
+      <email type="array">
+        <email>
+          <address>lucaspsique@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Lucas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Gurgel</last-name>
+      <email type="array">
+        <email>
+          <address>eduardo@alu.dc.ufc.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Eduardo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>, Felipe</last-name>
+      <email type="array">
+        <email>
+          <address>fpinhoc@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Pinho</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>louise@hostels.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>louise</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>contato@pousadaaltodapipa.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>contato</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Porcino LB #52</last-name>
+      <email type="array">
+        <email>
+          <address>rr_pontes@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Rafael</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>J&#225;come</last-name>
+      <email type="array">
+        <email>
+          <address>geanjacome@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Gean</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>alexia.br@mac.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>alexia.br</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Braga</last-name>
+      <email type="array">
+        <email>
+          <address>marcio.braga@ivia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>M&#225;rcio</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>reservas@hoteldapipa.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>reservas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Albuquerque</last-name>
+      <email type="array">
+        <email>
+          <address>carolla.ce@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Carol</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>- Pousada Bicho Pregui&#231;a</last-name>
+      <email type="array">
+        <email>
+          <address>reservas@pipabichopreguica.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Reservas</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>contato@msg.peixeurbano.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>contato</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>brasil</last-name>
+      <email type="array">
+        <email>
+          <address>alexia.br@me.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>alexia</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Matos</last-name>
+      <email type="array">
+        <email>
+          <address>evellyne.matos@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Evellyne</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Ribeiro</last-name>
+      <email type="array">
+        <email>
+          <address>michellyribeiro.xellynha@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Michelly</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Macaco Gurj&#227;o</last-name>
+      <email type="array">
+        <email>
+          <address>victorgurjao@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>V&#237;ctor</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Kelsey</last-name>
+      <email type="array">
+        <email>
+          <address>julian.kelsey@youdevise.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Julian</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Leal</last-name>
+      <email type="array">
+        <email>
+          <address>yuri.leal@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Yuri</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>fabiocosta@nyc.rr.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>fabiocosta</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>contato@portodotrapia.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>contato</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>paulojamil@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>paulojamil</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Sales de Bruin</last-name>
+      <email type="array">
+        <email>
+          <address>clarissadebruin@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Clarissa</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>esjug-subscribe@esjug.dev.java.net</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>esjug-subscribe</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Lucas Vieira Nogueira</last-name>
+      <email type="array">
+        <email>
+          <address>pedralispe@hotmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Jo&#227;o</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>orders@weberorders.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>orders</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Sales Pinto</last-name>
+      <email type="array">
+        <email>
+          <address>leandro.shp@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Leandro</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>.</last-name>
+      <email type="array">
+        <email>
+          <address>zimbo.email@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Zimbo</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>glaydson.maget@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>glaydson.maget</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>PS3</last-name>
+      <email type="array">
+        <email>
+          <address>allgamestation@allgamestation.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>AllGameStation</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Martins</last-name>
+      <email type="array">
+        <email>
+          <address>taechermartins@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Kiel</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Matos</last-name>
+      <email type="array">
+        <email>
+          <address>evellynem@yahoo.com.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Evellyne</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Pereira</last-name>
+      <email type="array">
+        <email>
+          <address>tabita.pereira@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>T&#225;bita</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>danieulenz@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>danieulenz</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name>Alencar</last-name>
+      <email type="array">
+        <email>
+          <address>robsonr.alencar@gmail.com</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>Robson</first-name>
+    </contact>
+    <contact>
+      <address type="array"/>
+      <phone type="array"/>
+      <last-name></last-name>
+      <email type="array">
+        <email>
+          <address>allan.lima@serpro.gov.br</address>
+          <primary type="boolean">true</primary>
+          <type nil="true"></type>
+        </email>
+      </email>
+      <first-name>allan.lima</first-name>
+    </contact>
+  </contacts>
+  <echo nil="true"></echo>
+  <user-id nil="true"></user-id>
+  <id type="integer">9713810</id>
+</contactsResponse>

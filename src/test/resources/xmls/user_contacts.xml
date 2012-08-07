@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactsResponse>
+  <echo nil="true"></echo>
+  <user-id>myUserId_0003</user-id>
+  <import-id>1126</import-id>
+  <contacts-owner>
+    <first-name>Joe</first-name>
+    <last-name>Smith</last-name>
+    <email type="array">
+      <email>
+        <address>joe@example.com</address>
+      </email>
+    </email>
+  </contacts-owner>
+  <contacts type="array">
+    <contact>
+      <first-name>John</first-name>
+      <last-name>Doe</last-name>
+      <phone type="array">
+        <phone>
+          <number>555-1234</number>
+          <type>Home</type>
+        </phone>
+        <phone>
+          <number>555-2468</number>
+          <type>Work</type>
+        </phone>
+      </phone>
+      <email type="array">
+        <email>
+          <address>johndoe@nowhere.com</address>
+          <type>Email 1</type>
+        </email>
+        <email>
+          <address>second@email.com</address>
+          <type>Email 2</type>
+        </email>
+      </email>
+    </contact>
+    <contact>
+      <first-name>Jane</first-name>
+      <last-name>Smith</last-name>
+      <phone type="array">
+        <phone>
+          <number>555.5678</number>
+          <type>Home</type>
+        </phone>
+      </phone>
+      <email type="array">
+        <email>
+          <address>janesmith@nowhere.com</address>
+          <type>Email 1</type>
+        </email>
+      </email>
+      <address type="array">
+        <address>
+          <street>3450 Sacramento St., #510</street>
+          <city>San Francisco</city>
+          <region>CA</region>
+          <country>US</country>
+          <postal-code>94118</postal-code>
+          <formatted>3450 Sacramento St., #510 San Francisco, CA 94118</formatted>
+        </address>
+      </address>
+    </contact>
+  </contacts>
+</contactsResponse>

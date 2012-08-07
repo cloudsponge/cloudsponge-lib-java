@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <status>error</status>
+  <error>
+  	<message>Error!</message>
+  </error>
+  <import-id>1131</import-id>
+  <user-id nil="true"></user-id>
+  <echo nil="true"></echo>
+</result>

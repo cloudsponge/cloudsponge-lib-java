@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <status>success</status>
+  <url>https://api.login.yahoo.com/oauth/v2/request_auth?oauth_token=d</url>
+  <import-id>1126</import-id>
+  <user-id>myUserId_0003</user-id>
+  <echo>echo123</echo>
+</result>
