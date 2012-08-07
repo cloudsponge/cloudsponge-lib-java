@@ -1,6 +1,6 @@
 package com.cloudsponge;
 
-public final class CloudSpongeUrls {
+final class CloudSpongeUrls {
 
 	private static final String HOST_URL = "https://api.cloudsponge.com";
 
@@ -24,4 +24,6 @@ public final class CloudSpongeUrls {
 	public static String contactsUrl(String importId) {
 		return CONTACTS_URL + importId;
 	}
+
+	private CloudSpongeUrls() {}
 }
