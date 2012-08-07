@@ -4,6 +4,10 @@ import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
+/**
+ * Object for the regular import process (username and password).
+ * @author andrenpaes
+ */
 public class ImportResponse extends CloudSpongeResponse {
 
 	private static final long serialVersionUID = 8713318679770631427L;
@@ -45,6 +49,10 @@ public class ImportResponse extends CloudSpongeResponse {
 		this.errorMessage = errorMessage;
 	}
 
+	/**
+	 * Indicates if the import process has successfully begun.
+	 * @return <code>true</code> or <code>false</code>
+	 */
 	public boolean isSucessful() {
 		return status == ImportStatus.SUCCESS;
 	}

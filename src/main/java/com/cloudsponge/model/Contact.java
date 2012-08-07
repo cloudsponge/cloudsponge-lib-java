@@ -9,6 +9,12 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
 
+/**
+ * Represent a user contact. Contains the contact's name along with emails and
+ * phone numbers.
+ * 
+ * @author andrenpaes
+ */
 public class Contact implements Serializable {
 
 	private static final long serialVersionUID = -6114808751708283994L;

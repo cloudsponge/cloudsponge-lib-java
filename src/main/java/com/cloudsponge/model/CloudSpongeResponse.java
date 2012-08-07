@@ -7,6 +7,13 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
 
+/**
+ * Base response for every CloudSponge request. Contains the echo and user-id
+ * strings along with the import-id.
+ * 
+ * @author andrenpaes
+ * 
+ */
 public abstract class CloudSpongeResponse implements Serializable {
 
 	private static final long serialVersionUID = 3345090496290102658L;

@@ -11,6 +11,15 @@ import com.cloudsponge.model.AppletConsent;
 import com.cloudsponge.model.ImportResponse;
 import com.cloudsponge.model.UserConsent;
 
+/**
+ * Lists the available sources of contacts.
+ * @author andrenpaes
+ *
+ * @param <T> type of the object used to proceed with the import process
+ * @see UserConsent
+ * @see AppletConsent
+ * @see ImportResponse
+ */
 public abstract class ContactsService<T extends ImportResponse> implements
 		Serializable {
 

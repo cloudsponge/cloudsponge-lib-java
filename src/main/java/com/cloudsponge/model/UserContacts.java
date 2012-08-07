@@ -7,6 +7,13 @@ import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
+/**
+ * Agregates all user contacts along with the contact representing the owner
+ * (user).
+ * 
+ * @author andrenpaes
+ * 
+ */
 public class UserContacts extends CloudSpongeResponse {
 
 	private static final long serialVersionUID = -5450084963732739033L;
@@ -15,6 +22,9 @@ public class UserContacts extends CloudSpongeResponse {
 
 	private final List<Contact> contacts = new ArrayList<Contact>();
 
+	/**
+	 * The user himself.
+	 */
 	public Contact getOwner() {
 		return owner;
 	}
@@ -23,6 +33,9 @@ public class UserContacts extends CloudSpongeResponse {
 		this.owner = owner;
 	}
 
+	/**
+	 * All of his contacts.
+	 */
 	public List<Contact> getContacts() {
 		return contacts;
 	}

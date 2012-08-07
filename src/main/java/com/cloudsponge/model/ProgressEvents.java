@@ -10,6 +10,25 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
 
+/**
+ * Object for monitoring the import process progress.<br>
+ * Contains {@link Event} representing each step of the process:
+ * <ul>
+ * 	<li>{@link EventType#INITIALIZING}
+ *  <li>{@link EventType#GATHERING}
+ *  <li>{@link EventType#COMPLETE}
+ * </ul>
+ * With each of its statuses:
+ * <ul>
+ * 	<li>{@link EventStatus#INPROGRESS}
+ * 	<li>{@link EventStatus#COMPLETED}
+ * 	<li>{@link EventStatus#ERROR}
+ * </ul>
+ * 
+ * @author andrenpaes
+ * @see EventType
+ * @see EventStatus
+ */
 public class ProgressEvents extends CloudSpongeResponse {
 
 	private static final long serialVersionUID = 7853343848740582120L;

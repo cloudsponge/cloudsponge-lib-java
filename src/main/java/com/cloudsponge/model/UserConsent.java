@@ -4,6 +4,13 @@ import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
+/**
+ * Object for the Consent Page import process. Contains the URL that needs to
+ * accessed for authorizing the import process.
+ * 
+ * @author andrenpaes
+ * 
+ */
 public class UserConsent extends ImportResponse {
 
 	private static final long serialVersionUID = 5542094612652810253L;
@@ -13,6 +20,9 @@ public class UserConsent extends ImportResponse {
 	public UserConsent() {
 	}
 
+	/**
+	 * Consent page URL.
+	 */
 	public String getUrl() {
 		return url;
 	}

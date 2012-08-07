@@ -4,6 +4,12 @@ import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
+/**
+ * Object for the Desktop Applet import process. Renders the html code of the
+ * applet needed to proceed with the import process.
+ * 
+ * @author andrenpaes
+ */
 public class AppletConsent extends ImportResponse {
 
 	private static final long serialVersionUID = 1119039498197708190L;

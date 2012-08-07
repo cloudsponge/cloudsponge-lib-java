@@ -1,5 +1,10 @@
 package com.cloudsponge;
 
+/**
+ * Thrown in case of any IO errors occurred during the import process.
+ * 
+ * @author andrenpaes
+ */
 public final class CloudSpongeIOException extends CloudSpongeException {
 	private static final long serialVersionUID = -6763464235462398080L;
 
