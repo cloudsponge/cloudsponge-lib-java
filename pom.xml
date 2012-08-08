@@ -32,13 +32,6 @@
 		<url>http://code.google.com/p/cloudsponge-lib-java/source/browse/</url>
 		<connection>scm:git:https://code.google.com/p/cloudsponge-lib-java/</connection>
 	</scm>
-	<developers>
-		<developer>
-			<id>andrenpaes</id>
-			<name>André Paes Rodrigues</name>
-			<email>andrenpaes@gmail.com</email>
-		</developer>
-	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
