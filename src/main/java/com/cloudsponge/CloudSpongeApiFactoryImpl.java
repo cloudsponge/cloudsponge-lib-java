@@ -17,6 +17,14 @@ public final class CloudSpongeApiFactoryImpl implements CloudSpongeApiFactory {
 
 	private String domainPassword;
 
+	public CloudSpongeApiFactoryImpl() {
+	}
+
+	public CloudSpongeApiFactoryImpl(String domainKey, String domainPassword) {
+		this.domainKey = domainKey;
+		this.domainPassword = domainPassword;
+	}
+
 	/**
 	 * Sets the domain key used for authentication with CloudSponge.
 	 * @param domainKey
