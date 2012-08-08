@@ -31,6 +31,7 @@
 	<scm>
 		<url>http://code.google.com/p/cloudsponge-lib-java/source/browse/</url>
 		<connection>scm:git:https://code.google.com/p/cloudsponge-lib-java/</connection>
+		<developerConnection>scm:git:https://code.google.com/p/cloudsponge-lib-java/</developerConnection>
 	</scm>
 
 	<properties>
@@ -46,6 +47,15 @@
 				<configuration>
 					<source>1.6</source>
 					<target>1.6</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
 				</configuration>
 			</plugin>
 		</plugins>
