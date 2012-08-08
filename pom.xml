@@ -7,16 +7,38 @@
 
 	<groupId>com.cloudsponge</groupId>
 	<artifactId>cloudsponge</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	
+	<version>1.0-RC1</version>
 
+	<name>CloudSponge API Java Wrapper</name>
 	<description>
 	<![CDATA[
+		Java Wrapper for the CloudSponge.com REST API.
+
 		CloudSponge is the tool that you need to go viral. Create an account at
 		http://www.cloudsponge.com and integrate with this library. In a few
 		lines of code you'll have access to your users' contact lists.
 	]]>
 	</description>
+	<url>http://code.google.com/p/cloudsponge-java/</url>
+	<licenses>
+		<license>
+			<name>The MIT License (MIT)</name>
+			<url>http://opensource.org/licenses/mit-license.php</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<scm>
+		<url>http://code.google.com/p/cloudsponge-lib-java/source/browse/</url>
+		<connection>scm:git:https://code.google.com/p/cloudsponge-lib-java/</connection>
+	</scm>
+	<developers>
+		<developer>
+			<id>andrenpaes</id>
+			<name>André Paes Rodrigues</name>
+			<email>andrenpaes@gmail.com</email>
+		</developer>
+	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
