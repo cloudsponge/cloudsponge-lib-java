@@ -34,6 +34,19 @@
 		</license>
 	</licenses>
 
+	<developers>
+		<developer>
+			<id>andrenpaes</id>
+			<name>Andre Paes Rodrigues</name>
+			<email>andre@arizonabay.com</email>
+		</developer>
+		<developer>
+			<id>dangerouse</id>
+			<name>Graeme Rouse</name>
+			<email>graeme@cloudsponge.com</email>
+		</developer>
+	</developers>
+
 	<scm>
 		<url>http://code.google.com/p/cloudsponge-lib-java/source/browse/</url>
 		<connection>scm:git:https://github.com/andrenpaes/cloudsponge-lib-java.git</connection>
