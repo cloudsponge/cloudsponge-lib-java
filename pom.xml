@@ -48,7 +48,7 @@
 	</developers>
 
 	<scm>
-		<url>http://code.google.com/p/cloudsponge-lib-java/source/browse/</url>
+		<url>https://github.com/andrenpaes/cloudsponge-lib-java/tree/master/</url>
 		<connection>scm:git:https://github.com/andrenpaes/cloudsponge-lib-java.git</connection>
 		<developerConnection>scm:git:https://github.com/andrenpaes/cloudsponge-lib-java.git</developerConnection>
 	</scm>
