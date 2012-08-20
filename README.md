@@ -17,6 +17,8 @@ How to Use it
 	  <version>1.0-RC1</version>
 	</dependency>
 
+Or, if you're not using Maven, [download the jar](https://github.com/andrenpaes/cloudsponge-lib-java/downloads) and add it your project.
+
 ### Then use it! ###
 
 	CloudSpongeApiFactory factory = new CloudSpongeApiFactoryImpl("DOMAIN_KEY", "DOMAIN_PASSWORD");
