@@ -14,7 +14,7 @@ How to Use it
 	<dependency>
 	  <groupId>com.cloudsponge</groupId>
 	  <artifactId>cloudsponge</artifactId>
-	  <version>1.0-RC1</version>
+	  <version>1.0-RC2</version>
 	</dependency>
 
 Or, if you're not using Maven, [download the jar](https://github.com/andrenpaes/cloudsponge-lib-java/downloads) and add it your project.

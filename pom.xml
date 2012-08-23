@@ -13,7 +13,7 @@
 
 	<groupId>com.cloudsponge</groupId>
 	<artifactId>cloudsponge</artifactId>
-	<version>1.0-RC1</version>
+	<version>1.0-RC2</version>
 
 	<name>CloudSponge API Java Wrapper</name>
 	<description>
@@ -51,6 +51,7 @@
 		<url>https://github.com/andrenpaes/cloudsponge-lib-java/tree/master/</url>
 		<connection>scm:git:https://github.com/andrenpaes/cloudsponge-lib-java.git</connection>
 		<developerConnection>scm:git:https://github.com/andrenpaes/cloudsponge-lib-java.git</developerConnection>
+		<tag>1.0-RC2</tag>
 	</scm>
 
 	<issueManagement>
