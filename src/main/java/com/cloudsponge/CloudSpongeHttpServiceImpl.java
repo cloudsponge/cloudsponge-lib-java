@@ -25,7 +25,11 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
 class CloudSpongeHttpServiceImpl implements CloudSpongeHttpService {
-	private DefaultHttpClient httpClient;
+	final private DefaultHttpClient httpClient;
+
+	public CloudSpongeHttpServiceImpl() {
+		this.httpClient = new DefaultHttpClient();
+	}
 
 	public CloudSpongeHttpServiceImpl(DefaultHttpClient httpClient) {
 		this.httpClient = httpClient;
@@ -94,6 +98,18 @@ class CloudSpongeHttpServiceImpl implements CloudSpongeHttpService {
 		int statusCode = httpResponse.getStatusLine().getStatusCode();
 		if (statusCode >= 400) {
 			throw new CloudSpongeIOException(statusCode);
+		}
+	}
+
+	@Override
+	public HttpResponse executeRaw(HttpRequestBase request) throws CloudSpongeIOException {
+		try {
+			return httpClient.execute(request);
+		} catch (IOException e) {
+			throw new CloudSpongeIOException(e);
+		} finally {
+			httpClient.getCredentialsProvider().clear();
+			request.reset();
 		}
 	}
 

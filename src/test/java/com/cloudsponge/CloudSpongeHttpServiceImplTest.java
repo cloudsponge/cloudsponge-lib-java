@@ -3,56 +3,65 @@ package com.cloudsponge;
 import static org.junit.Assert.*;
 
 import java.io.IOException;
-import java.io.PrintStream;
-import java.net.InetSocketAddress;
-import java.net.SocketAddress;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.DefaultHttpClient;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.mortbay.jetty.Connector;
+import org.mortbay.jetty.Handler;
+import org.mortbay.jetty.Request;
+import org.mortbay.jetty.Server;
+import org.mortbay.jetty.bio.SocketConnector;
+import org.mortbay.jetty.handler.AbstractHandler;
 
-import org.simpleframework.http.Request;
-import org.simpleframework.http.Response;
-import org.simpleframework.http.core.Container;
-import org.simpleframework.transport.connect.Connection;
-import org.simpleframework.transport.connect.SocketConnection;
 
 public class CloudSpongeHttpServiceImplTest {
 
+	private static final int HTTP_TEST_SERVER_PORT = 38940;
+
 	private CloudSpongeHttpServiceImpl cloudSpongeHttpService;
 
-	private DefaultHttpClient httpClient;
+	private Server httpRemoteServer;
 
-	private Connection httpServer;
 
 	@Before
 	public void setUp() {
-		httpClient = new DefaultHttpClient();
-		cloudSpongeHttpService = new CloudSpongeHttpServiceImpl(httpClient);
+		cloudSpongeHttpService = new CloudSpongeHttpServiceImpl();
+	}
+
+	private void addTestHandlerToServer(Handler handler) throws Exception {
+		httpRemoteServer = new Server();
+		httpRemoteServer.addConnector(createConnector(HTTP_TEST_SERVER_PORT));
+		httpRemoteServer.addHandler(handler);
+
+		httpRemoteServer.start();
+	}
+
+	private static Connector createConnector(int port) {
+		final Connector connector = new SocketConnector();
+		connector.setHost("localhost");
+		connector.setPort(port);
+		
+		return connector;
 	}
 
 	@After
 	public void shutdown() throws Exception {
 		cloudSpongeHttpService.close();
-		if (httpServer != null) {
-			httpServer.close();
+		if (httpRemoteServer != null) {			
+			httpRemoteServer.stop();
 		}
 	}
 
 	private String createUri(String path) {
-		return "http://localhost:38940" + path;
-	}
-
-	private void startServer(Container container) throws Exception {
-		httpServer = new SocketConnection(container);
-		SocketAddress address = new InetSocketAddress("localhost", 38940);
-		httpServer.connect(address);
+		return "http://localhost:" + HTTP_TEST_SERVER_PORT  + path;
 	}
 
 	@Test
@@ -65,21 +74,17 @@ public class CloudSpongeHttpServiceImplTest {
 				createUri(path), fields);
 		final String expectedResponse = "Post it!";
 
-		startServer(new Container() {
+		addTestHandlerToServer(new AbstractHandler() {
 			@Override
-			public void handle(Request req, Response resp) {
-				try {
-					assertEquals("POST", req.getMethod());
-					assertEquals(path, req.getPath().getPath());
-					assertEquals("create", req.getParameter("method"));
+			public void handle(String target, HttpServletRequest request,
+					HttpServletResponse response, int dispatch) throws IOException {
+				assertEquals("POST", request.getMethod());
+				assertEquals(path, target);
+				assertEquals("create", request.getParameter("method"));
 
-					PrintStream body = resp.getPrintStream();
-					body.append(expectedResponse);
-					resp.setCode(200);
-					resp.close();
-				} catch (IOException e) {
-					throw new RuntimeException(e);
-				}
+				response.setStatus(HttpServletResponse.SC_OK);
+				response.getWriter().print(expectedResponse);
+				((Request) request).setHandled(true);
 			}
 		});
 		assertEquals(expectedResponse, cloudSpongeHttpService.execute(post));
@@ -92,21 +97,17 @@ public class CloudSpongeHttpServiceImplTest {
 		cloudSpongeHttpService.addParameter(get, "who", "nobody");
 		final String expectedResponse = "Got it!";
 
-		startServer(new Container() {
+		addTestHandlerToServer(new AbstractHandler() {
 			@Override
-			public void handle(Request req, Response resp) {
-				try {
-					assertEquals("GET", req.getMethod());
-					assertEquals(path, req.getPath().getPath());
-					assertEquals("nobody", req.getParameter("who"));
+			public void handle(String target, HttpServletRequest request,
+					HttpServletResponse response, int dispatch) throws IOException {
+				assertEquals("GET", request.getMethod());
+				assertEquals(path, target);
+				assertEquals("nobody", request.getParameter("who"));
 
-					PrintStream body = resp.getPrintStream();
-					body.append(expectedResponse);
-					resp.setCode(200);
-					resp.close();
-				} catch (IOException e) {
-					throw new RuntimeException(e);
-				}
+				response.setStatus(HttpServletResponse.SC_OK);
+				response.getWriter().print(expectedResponse);
+				((Request) request).setHandled(true);
 			}
 		});
 		assertEquals(expectedResponse, cloudSpongeHttpService.execute(get));
@@ -119,25 +120,21 @@ public class CloudSpongeHttpServiceImplTest {
 		cloudSpongeHttpService.addAuthenticationCredentials(get, "user", "pass");
 		final String expectedResponse = "Authorized!";
 
-		startServer(new Container() {
+		addTestHandlerToServer(new AbstractHandler() {
 			@Override
-			public void handle(Request req, Response resp) {
-				try {
-					final String authorization = req.getValue("Authorization");
-					if (authorization == null) {
-						resp.set("WWW-Authenticate", "Basic realm=\"test\"");
-						resp.setCode(401);
-					} else {
-						assertEquals("Basic dXNlcjpwYXNz", authorization);
+			public void handle(String target, HttpServletRequest request,
+					HttpServletResponse response, int dispatch) throws IOException {
+				final String authorization = request.getHeader("Authorization");
+				if (authorization == null) {
+					response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
+					response.setHeader("WWW-Authenticate", "Basic realm=\"test\"");
+				} else {
+					assertEquals("Basic dXNlcjpwYXNz", authorization);
 
-						final PrintStream body = resp.getPrintStream();
-						body.append(expectedResponse);
-						resp.setCode(200);
-					}
-					resp.close();
-				} catch (IOException e) {
-					throw new RuntimeException(e);
+					response.setStatus(HttpServletResponse.SC_OK);
+					response.getWriter().append(expectedResponse);
 				}
+				((Request) request).setHandled(true);
 			}
 		});
 		assertEquals(expectedResponse, cloudSpongeHttpService.execute(get));
@@ -148,15 +145,12 @@ public class CloudSpongeHttpServiceImplTest {
 		final String path = "/protected/myUri";
 		final HttpGet get = cloudSpongeHttpService.createGet(createUri(path));
 		
-		startServer(new Container() {
+		addTestHandlerToServer(new AbstractHandler() {
 			@Override
-			public void handle(Request req, Response resp) {
-				try {
-					resp.setCode(404);
-					resp.close();
-				} catch (IOException e) {
-					throw new RuntimeException(e);
-				}
+			public void handle(String target, HttpServletRequest request,
+					HttpServletResponse response, int dispatch) throws IOException {
+				response.setStatus(HttpServletResponse.SC_NOT_FOUND);
+				((Request) request).setHandled(true);
 			}
 		});
 		cloudSpongeHttpService.execute(get);

@@ -1,7 +1,9 @@
 package com.cloudsponge;
 
+import java.io.Closeable;
 import java.util.Map;
 
+import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.HttpRequestBase;
@@ -13,7 +15,7 @@ import org.apache.http.client.methods.HttpRequestBase;
  * 
  * @author andrenpaes
  */
-interface CloudSpongeHttpService {
+interface CloudSpongeHttpService extends Closeable {
 
 	HttpGet createGet(String uri);
 
@@ -25,6 +27,8 @@ interface CloudSpongeHttpService {
 	void addParameter(HttpRequestBase request, String paramName, String value);
 
 	String execute(HttpRequestBase request) throws CloudSpongeIOException;
+
+	HttpResponse executeRaw(HttpRequestBase request) throws CloudSpongeIOException;
 
 	void close();
 }
