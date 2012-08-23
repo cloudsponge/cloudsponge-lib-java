@@ -54,3 +54,18 @@ Or, if you're not using Maven, [download the jar](https://github.com/andrenpaes/
 	} finally {
 		cloudSponge.close();
 	}
+
+CloudSponde Proxy URL
+---------------------
+The CloudSponge API Java Wrapper also includes an implementation of a Proxy URL for user authentication. For more the details, click [here](http://www.cloudsponge.com/developer/branding#proxy-url).
+
+### For using the Proxy URL Servlet, just add it to your web.xml file ###
+
+	<servlet>
+		<servlet-name>CloudSponge URL Proxy</servlet-name>
+		<servlet-class>com.cloudsponge.CloudSpongeProxyServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CloudSponge URL Proxy</servlet-name>
+		<url-pattern>URL_PATTERN</url-pattern>
+	</servlet-mapping>
