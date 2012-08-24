@@ -39,7 +39,10 @@ public final class CloudSpongeProxyServlet extends HttpServlet {
 	 * @return {@link CloudSpongeHttpService} instance
 	 */
 	private CloudSpongeHttpService getCloudSpongeHttpService() {
-		return new CloudSpongeHttpServiceImpl();
+		final CloudSpongeHttpServiceImpl httpService = new CloudSpongeHttpServiceImpl();
+		httpService.followRedirects(false);
+
+		return httpService;
 	}
 
 	private String generateEndpointAuthUrl(HttpServletRequest req) {
@@ -88,18 +91,18 @@ public final class CloudSpongeProxyServlet extends HttpServlet {
 		return array == null || array.length == 0;
 	}
 
-	private void proxyRequestToCloudSponge(HttpRequestBase post,
-			CloudSpongeHttpService httpService, HttpServletResponse resp) throws IOException {
+	private void proxyRequestToCloudSponge(HttpRequestBase request,
+			CloudSpongeHttpService httpService, HttpServletResponse servletResponse) throws IOException {
 		try {
-			final HttpResponse httpResponse = httpService.executeRaw(post);
+			final HttpResponse httpResponse = httpService.executeRaw(request);
 			final HttpEntity entity = httpResponse.getEntity();
 			try {
 				final int responseStatusCode = httpResponse.getStatusLine().getStatusCode();
 				if (responseStatusCode == HttpServletResponse.SC_MOVED_TEMPORARILY) {
-					resp.sendRedirect(httpResponse.getFirstHeader(LOCATION_HEADER).getValue());
+					servletResponse.sendRedirect(httpResponse.getFirstHeader(LOCATION_HEADER).getValue());
 				} else {
-					resp.setStatus(responseStatusCode);
-					final PrintWriter responseWriter = resp.getWriter();
+					servletResponse.setStatus(responseStatusCode);
+					final PrintWriter responseWriter = servletResponse.getWriter();
 					responseWriter.write(EntityUtils.toString(entity));
 					responseWriter.flush();
 				}

@@ -19,6 +19,7 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.HttpRequestBase;
+import org.apache.http.client.params.HttpClientParams;
 import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
@@ -99,6 +100,11 @@ class CloudSpongeHttpServiceImpl implements CloudSpongeHttpService {
 		if (statusCode >= 400) {
 			throw new CloudSpongeIOException(statusCode);
 		}
+	}
+
+	@Override
+	public void followRedirects(boolean follow) {
+		HttpClientParams.setRedirecting(httpClient.getParams(), follow);
 	}
 
 	@Override

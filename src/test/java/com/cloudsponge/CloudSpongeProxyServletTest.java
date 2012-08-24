@@ -39,6 +39,7 @@ public class CloudSpongeProxyServletTest {
 	@Before
 	public void setUp() throws Exception {
 		httpService = new CloudSpongeHttpServiceImpl();
+		httpService.followRedirects(false);
 
 		proxyServletServer = new Server();
 		proxyServletServer.addConnector(createConnector(HTTP_PROXY_SERVLET_SERVER_PORT));
@@ -101,12 +102,11 @@ public class CloudSpongeProxyServletTest {
 				assertEquals("", request.getParameter("empty"));
 
 				response.sendRedirect("about:blank");
-				((Request) request).setHandled(true);
 			}
 		});
 
 		final HttpResponse response = httpService.executeRaw(post);
-		assertEquals(HttpServletResponse.SC_MOVED_TEMPORARILY,
+		assertEquals(HttpServletResponse.SC_FOUND,
 				response.getStatusLine().getStatusCode());
 		assertEquals("about:blank", response.getFirstHeader("Location").getValue());
 	}
@@ -128,5 +128,25 @@ public class CloudSpongeProxyServletTest {
 		});
 
 		assertEquals("GOT IT!", httpService.execute(get));
+	}
+
+	@Test
+	public void proxy_get_method_to_cloudsponge_dont_follow_redirect() throws Exception {
+		final HttpGet get = httpService.createGet(createCloudSpongeProxyTestUrl("12345678"));
+
+		startCloudSpongeMockServer(new AbstractHandler() {
+			@Override
+			public void handle(String target, HttpServletRequest request,
+					HttpServletResponse response, int dispatch) throws IOException {
+				assertEquals("GET", request.getMethod());
+
+				response.sendRedirect("about:blank");
+			}
+		});
+
+		final HttpResponse response = httpService.executeRaw(get);
+		assertEquals(HttpServletResponse.SC_FOUND,
+				response.getStatusLine().getStatusCode());
+		assertEquals("about:blank", response.getFirstHeader("Location").getValue());
 	}
 }
