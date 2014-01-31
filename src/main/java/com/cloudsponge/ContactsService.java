@@ -34,8 +34,8 @@ public abstract class ContactsService<T extends ImportResponse> implements
 	public static final ContactsService<UserConsent> YAHOO =
 			new UserConsentContactsService("YAHOO");
 
-	public static final ContactsService<ImportResponse> AOL =
-			new AuthenticationContactsService("AOL");
+	public static final ContactsService<UserConsent> AOL =
+			new UserConsentContactsService("AOL");
 
 	public static final ContactsService<ImportResponse> PLAXO =
 			new AuthenticationContactsService("PLAXO");
