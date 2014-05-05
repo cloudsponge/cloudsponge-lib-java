@@ -1,4 +1,4 @@
-cloudsponge-lib-java [![Build Status](https://travis-ci.org/andrenpaes/cloudsponge-lib-java.png)](https://travis-ci.org/andrenpaes/cloudsponge-lib-java)
+cloudsponge-lib-java
 ====================
 
 Java Wrapper for the CloudSponge.com Rest API
