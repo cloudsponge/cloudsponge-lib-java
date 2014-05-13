@@ -1,4 +1,4 @@
-cloudsponge-lib-java [![Build Status](https://travis-ci.org/andrenpaes/cloudsponge-lib-java.png)](https://travis-ci.org/andrenpaes/cloudsponge-lib-java)
+cloudsponge-lib-java [![Build Status](https://travis-ci.org/cloudsponge/cloudsponge-lib-java.png)](https://travis-ci.org/cloudsponge/cloudsponge-lib-java)
 ====================
 
 Java Wrapper for the CloudSponge.com Rest API
@@ -17,7 +17,7 @@ How to Use it
 	  <version>1.0-RC2</version>
 	</dependency>
 
-Or, if you're not using Maven, [download the jar](https://github.com/andrenpaes/cloudsponge-lib-java/downloads) and add it your project.
+Or, if you're not using Maven, [download the jar](https://github.com/cloudsponge/cloudsponge-lib-java/downloads) and add it your project.
 
 ### Then use it! ###
 
@@ -57,7 +57,7 @@ Or, if you're not using Maven, [download the jar](https://github.com/andrenpaes/
 
 CloudSponge Proxy URL
 ---------------------
-The CloudSponge API Java Wrapper also includes an [implementation of a Proxy URL](https://github.com/andrenpaes/cloudsponge-lib-java/blob/master/src/main/java/com/cloudsponge/CloudSpongeProxyServlet.java)
+The CloudSponge API Java Wrapper also includes an [implementation of a Proxy URL](https://github.com/cloudsponge/cloudsponge-lib-java/blob/master/src/main/java/com/cloudsponge/CloudSpongeProxyServlet.java)
 for branding the user authentication process. For more the details, click [here](http://www.cloudsponge.com/developer/branding#proxy-url).
 
 ### For using the Proxy URL Servlet, just add it to your web.xml file ###
