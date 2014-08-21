@@ -17,7 +17,7 @@ How to Use it
 	  <version>1.0-RC2</version>
 	</dependency>
 
-Or, if you're not using Maven, [download the jar](https://github.com/cloudsponge/cloudsponge-lib-java/downloads) and add it your project.
+Or, if you're not using Maven, download [the single jar](https://github.com/cloudsponge/cloudsponge-lib-java/blob/master/cloudsponge-1.0-RC2-jar-with-dependencies.jar?raw=true) or the [jar with all included dependencies](https://github.com/cloudsponge/cloudsponge-lib-java/blob/master/cloudsponge-1.0-RC2.jar?raw=true) and add it your project.
 
 ### Then use it! ###
 
