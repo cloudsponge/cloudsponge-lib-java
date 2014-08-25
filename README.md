@@ -30,7 +30,8 @@ Or, if you're not using Maven, download [the single jar](https://github.com/clou
 
 	try {
 		UserConsent consent = cloudSponge.beginImport();
-		// Open consent page
+		// Manually open the consent page in a browser window to continue with the import
+		System.out.println("Copy and paste the following URL into your favorite browser to continue with the import:");
 		System.out.println(consent.getUrl());
 
 		// Waiting for consent...
